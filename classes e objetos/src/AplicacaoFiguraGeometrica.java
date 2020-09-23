@@ -9,9 +9,9 @@ public class AplicacaoFiguraGeometrica {
 		Trapezio trapezio = new Trapezio(4, 3, 5);
 		
 		System.out.println("Calcula área");
-		System.out.println("Triangulo = " + triangulo.calculaArea());
-		System.out.println("Quadrado = " + quadrado.calculaArea());
-		System.out.println("Circuferência = " + circuferencia.calculaArea());
-		System.out.println("Trapézio = " + trapezio.calculaArea());
+		System.out.println("Triangulo = " + triangulo.calcularArea());
+		System.out.println("Quadrado = " + quadrado.calcularArea());
+		System.out.println("Circuferência = " + circuferencia.calcularArea());
+		System.out.println("Trapézio = " + trapezio.calcularArea());
 	}
 }

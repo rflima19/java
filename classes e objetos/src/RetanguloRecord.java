@@ -9,7 +9,7 @@ public record RetanguloRecord(double largura, double altura) {
 //		this.altura = 9.0; uma vez definido um valor para o atributo não é possivel alterar
 	}
 
-	public double calculaArea() {
+	public double calcularArea() {
 		return largura * altura;
 	}
 	

@@ -39,7 +39,7 @@ public class Trapezio {
 		this.altura = altura;
 	}
 	
-	public double calculaArea() {
+	public double calcularArea() {
 		return ((this.baseMaior + this.baseMenor) / 2) * this.altura;
 	}
 }

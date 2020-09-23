@@ -20,7 +20,7 @@ public class Circuferencia {
 		this.raio = raio;
 	}
 	
-	public double calculaArea() {
+	public double calcularArea() {
 		return (this.raio * this.raio) * Circuferencia.PI;
 	}
 }

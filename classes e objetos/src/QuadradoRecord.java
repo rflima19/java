@@ -19,7 +19,7 @@ public record QuadradoRecord(double lado) {
 //	métodos get são criados automaticamente, a sobrescrita dos métodos equals(), hashcode()
 //	e toString() também é feita de forma automática
 
-	public double calculaArea() {
+	public double calcularArea() {
 		return this.lado * this.lado;
 	}
 
