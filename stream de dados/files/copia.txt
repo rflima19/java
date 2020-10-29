@@ -1,0 +1,2 @@
+Arquivo escrito com PrintStream 10
+Texto para ser escrito no arquivo.%nlinha 2%n linha 3
